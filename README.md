@@ -4,14 +4,22 @@
 
 You are an air traffic controller at EPKK (Kraków Balice Airport, Poland). Your job is to get the incoming airplanes on the ground safely. Press SPACE to talk to the pilots. Whenever you do, make sure to always include the **airline callsign and flight number** - together, they act as an id assigned to each flight. For instance, RYR123 is: *Ryanair one-two-three*, WZZ674 is *Wizz six-seven-four*. The airline callsigns are as follows:
 airline: callsign (example flight)
-Ryanair: Ryanair (RYR123) \n
-Wizz Air: Wizz (WZZ34) \n
-British Airways: Speedbird (BAW890) \n
-EasyJet: easy (EZY45) \n
-LOT Polish Airlines: LOT (LOT3) \n
-Eurowings: Eurowings (EWG78) \n
-Lufthansa: Lufthansa (DLH81) \n
-Air France: Air France (AFR368) \n
+
+Ryanair: Ryanair (RYR123) 
+
+Wizz Air: Wizz (WZZ34) 
+
+British Airways: Speedbird (BAW890)
+
+EasyJet: easy (EZY45) 
+
+LOT Polish Airlines: LOT (LOT3) 
+
+Eurowings: Eurowings (EWG78) 
+
+Lufthansa: Lufthansa (DLH81) 
+
+Air France: Air France (AFR368) 
 
 For instance, to make the flight WZZ34 turn left onto a heading (track) of 270 (westerly course), yiu'd say: Wizz three-four, turn [right/left] heading two-seven-zero.
 To make flight DLH89 descend to the altitude of 5000 feet, you'd say: Lufthansa eight-niner, descend to five thousand feet OR: Lufthansa eight-niner, descend flight level five-zero. 
