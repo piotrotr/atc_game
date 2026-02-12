@@ -22,9 +22,13 @@ Lufthansa: Lufthansa (DLH81)
 Air France: Air France (AFR368) 
 
 For instance, to make the flight WZZ34 turn left onto a heading (track) of 270 (westerly course), yiu'd say: Wizz three-four, turn [right/left] heading two-seven-zero.
+
 To make flight DLH89 descend to the altitude of 5000 feet, you'd say: Lufthansa eight-niner, descend to five thousand feet OR: Lufthansa eight-niner, descend flight level five-zero. 
 To make EZY45 reduce speed to 235 knots, say: Easy four-five, reduce speed two-three-five knots. 
 
 Currently, it's only possible to change the heading, altitude and speed of the incoming airplanes. However, in the future, I plan to add approach landing clearances.
+
+<img width="1662" height="937" alt="Zrzut ekranu 2025-12-16 224718" src="https://github.com/user-attachments/assets/bf79a884-3db7-4f1c-8408-20009b255636" />
+
 
 
